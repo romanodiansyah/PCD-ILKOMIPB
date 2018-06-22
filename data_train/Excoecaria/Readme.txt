@@ -1,0 +1,1 @@
+Masukan file gambar Excoecaria kedalam folder ini

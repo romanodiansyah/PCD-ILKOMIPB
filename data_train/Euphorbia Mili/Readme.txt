@@ -1,0 +1,1 @@
+Masukan file gambar Euphorbia Mili kedalam folder ini

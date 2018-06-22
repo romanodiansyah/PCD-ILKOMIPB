@@ -1,0 +1,1 @@
+Masukan file gambar Chinese Tallow kedalam folder ini

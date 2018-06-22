@@ -1,0 +1,1 @@
+Masukan file gambar Gordon Croton kedalam folder ini

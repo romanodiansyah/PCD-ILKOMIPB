@@ -1,0 +1,1 @@
+Masukan file gambar Hevea Brasilinsis kedalam folder ini
